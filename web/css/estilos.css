@@ -1,0 +1,36 @@
+.cabecera{
+    background-color: rgba(0, 0, 0, 0.938);
+    color: white;
+    text-align-last: center;
+}
+.carrusel{
+    width: 1100px;
+    height: 520px;
+    background-color:rgba(123, 194, 108, 0.699);
+}
+.img-c{
+    padding-top: 20px;
+}
+
+.pie-pagina{
+    background-color: rgba(199, 231, 16, 0.699);
+    color: rgb(17, 5, 5);
+    text-align-last: center;
+    padding-top: 10px;
+}
+.card{
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.493);
+    
+}
+.item {
+    background: rgba(245, 108, 192, 0.411);
+}
+.nav{ background-color: rgb(28, 160, 23);
+}
+.navegar{
+    background-color: brown;
+}
+.color{
+    background-color: rgb(193, 216, 66);
+    color: black;
+}
